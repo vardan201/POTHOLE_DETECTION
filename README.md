@@ -83,9 +83,9 @@ graphql
 Copy
 Edit
 ├── deploy.py                # Streamlit application
-├── best.pt                  # Trained YOLO model weights
-├── pothole_config.yaml      # Dataset configuration file
-├── custom_hyp.yaml          # Custom training hyperparameters
+├── pothole_prediction_model.py                 # Trained YOLO model file
+├── requirements.txt      # requirements file
+├── predicted samples folder          # validation images with prediction
 └── README.md
 
 
